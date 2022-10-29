@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dota14&label=Profile%20views&color=0e75b6&style=flat" alt="DishalKanishka" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/DishalKanishka](https://twitter.com/DishalKanishka)" target="blank"><img src="https://img.shields.io/twitter/follow/dotax10?logo=twitter&style=for-the-badge" alt="dotax10" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DishalKanishka" target="blank"><img src="https://img.shields.io/twitter/follow/DishalKanishka?logo=twitter&style=for-the-badge" alt="dotax10" /></a> </p>
 
 - 🌱 I’m currently learning **C , C++ and Python**
 
