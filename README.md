@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dishal Kanishka</h1>
+<h1 align="center">Hello 👋, I'm Dishal Kanishka</h1>
 <h3 align="center">A code learner from Ceylon</h3>
 <img align = "right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
