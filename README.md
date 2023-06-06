@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/DishalKanishka" target="blank"><img src="https://img.shields.io/twitter/follow/DishalKanishka?logo=twitter&style=for-the-badge" alt="dotax10" /></a> </p>
 
-- 🌱 I’m currently learning **C , C++ and Python**
+- 🌱 I’m currently learning **C , JS and PHP**
 
 - 📝 I write articles on [https://medium.com/@dasanayakedishal](https://medium.com/@dasanayakedishal)
 
