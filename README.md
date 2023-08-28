@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://rare-gallery.com/thumbs/342742-Miles-Morales-Spider-Sense-Spider-Man-Marvel-Comics-Superhero-Comics-Comic-Superheroes-Spider-Man-Into-the-Spider-Verse-Movie.jpg"  />
+  <img height="150" src="https://comicvine.gamespot.com/a/uploads/original/8/84205/2309538-spider_sense_by_spideray_d4mzxm8.png"  />
 </div>
 
 ###
