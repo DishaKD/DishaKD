@@ -1,6 +1,6 @@
 <h1>
   <div  align="center">
-      <img  src="https://cdn.pixabay.com/photo/2021/09/11/12/17/github-6615451_1280.png"  alt="Logo" > 
+      <img  src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png"  alt="Logo" > 
 </h1>
 <h3 align="center">A code learner from Ceylon</h3>
 <img align = "right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
