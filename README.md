@@ -23,7 +23,10 @@
 <p align="left">I'm a tech enthusiast who would like to explore new technologies, not just programming languages. I love to improve knowledge with diiferent technologies and tech stacks. Hope to contribute open source projects. Explore and learn cloud technologies from different vendors.</p>
 
 ### My GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=DishaKD&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+ ![](https://github-readme-stats.vercel.app/api?username=DishaKD&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+</div>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DishaKD&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaKD&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
