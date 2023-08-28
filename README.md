@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://comicvine.gamespot.com/a/uploads/original/8/84205/2309538-spider_sense_by_spideray_d4mzxm8.png"  />
+  <img height="150" src="spider.png"  />
 </div>
 
 ###
