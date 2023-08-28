@@ -2,7 +2,7 @@
   <div  align="center">
       <img  src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png"  alt="Logo" > 
 </h1>
-<h3 align="center">A code learner from Ceylon</h3>
+<h3 align="center">A coder from Ceylon</h3>
 <img align = "right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dota14&label=Profile%20views&color=0e75b6&style=flat" alt="DishalKanishka" /> </p>
