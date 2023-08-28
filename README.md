@@ -25,7 +25,7 @@
 ### My Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DishaKD&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center" /></div>  
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DishaKD&theme=dark&hide_border=true" align="center" /></div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaKD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="right" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaKD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></div> 
 
 
 
