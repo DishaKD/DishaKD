@@ -8,8 +8,15 @@
   <a href="https://www.linkedin.com/in/dishal/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://medium.com/@dasanayakedishal">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/20311064/dishal-kanishka">
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/dishaldasanayake-0917/">
+    <img src="https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706.jpg" height="25" alt="Microsoft Learn">
+  </a>
 </div>
 
 ###
