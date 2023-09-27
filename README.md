@@ -25,7 +25,6 @@
 ###
 
 <h1 align="center">Coder from CEYLON</h1>
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/DishaKD.svg)](https://user-badge.committers.top/sri_lanka/DishaKD)  
 
 ###
 
