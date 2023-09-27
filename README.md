@@ -21,12 +21,11 @@
     <img src="https://www.extendaretail.com/wp-content/uploads/2020/06/google-cloud-logo-square-768x512-1-jpg.webp" height="25" width="50"  alt="Google Cloud Skill Boost">
   </a>  
 </div>
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/DishaKD.svg)](https://user-badge.committers.top/sri_lanka/DishaKD)  
-
 
 ###
 
 <h1 align="center">Coder from CEYLON</h1>
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/DishaKD.svg)](https://user-badge.committers.top/sri_lanka/DishaKD)  
 
 ###
 
