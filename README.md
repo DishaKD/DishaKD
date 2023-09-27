@@ -21,7 +21,6 @@
     <img src="https://www.extendaretail.com/wp-content/uploads/2020/06/google-cloud-logo-square-768x512-1-jpg.webp" height="25" width="50"  alt="Google Cloud Skill Boost">
   </a>
 </div>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/USERNAME)
 
 ###
 
@@ -34,6 +33,9 @@
 ###
 
 <p align="left">I'm a tech enthusiast who would like to explore new technologies, not just programming languages. I love to improve knowledge with diiferent technologies and tech stacks. Hope to contribute open source projects. Explore and learn cloud technologies from different vendors.</p>
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/DishaKD.svg)](https://user-badge.committers.top/sri_lanka/DishaKD)
+
 
 ### My Github Stats  
 <div align="center">
