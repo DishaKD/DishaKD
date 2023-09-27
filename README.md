@@ -20,8 +20,9 @@
    <a href="https://www.cloudskillsboost.google/public_profiles/9141d5c3-9637-4880-9301-3d6e58e30c19">
     <img src="https://www.extendaretail.com/wp-content/uploads/2020/06/google-cloud-logo-square-768x512-1-jpg.webp" height="25" width="50"  alt="Google Cloud Skill Boost">
   </a>  
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/DishaKD.svg)](https://user-badge.committers.top/sri_lanka/DishaKD)  
 </div>
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/DishaKD.svg)](https://user-badge.committers.top/sri_lanka/DishaKD)  
+
 
 ###
 
